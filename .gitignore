@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.pt
+*.pth
+*.ckpt
+*.npy
+checkpoints/
+data/
+logs/
+.venv/
+venv/
+.idea/
+.vscode/
